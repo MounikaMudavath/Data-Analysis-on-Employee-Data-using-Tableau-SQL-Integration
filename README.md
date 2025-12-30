@@ -1,4 +1,4 @@
-# SQL Project - HR Data Analytics
+# SQL Project - Data Analysis on Employee Data using Tableau-SQL Integration
 
 ## Business Problem
 
